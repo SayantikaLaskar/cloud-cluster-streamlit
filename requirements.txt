@@ -4,3 +4,4 @@ opencv-python-headless
 numpy
 matplotlib
 tifffile
+python-3.11
